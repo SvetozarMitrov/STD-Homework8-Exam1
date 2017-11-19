@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\STD-3a-SvetozarMitrov-1701681079-H8\CircleArea\bin\Debug\CircleArea.exe.config
+C:\Users\user\source\repos\STD-3a-SvetozarMitrov-1701681079-H8\CircleArea\bin\Debug\CircleArea.exe
+C:\Users\user\source\repos\STD-3a-SvetozarMitrov-1701681079-H8\CircleArea\bin\Debug\CircleArea.pdb
+C:\Users\user\source\repos\STD-3a-SvetozarMitrov-1701681079-H8\CircleArea\obj\Debug\CircleArea.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\STD-3a-SvetozarMitrov-1701681079-H8\CircleArea\obj\Debug\CircleArea.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\STD-3a-SvetozarMitrov-1701681079-H8\CircleArea\obj\Debug\CircleArea.exe
+C:\Users\user\source\repos\STD-3a-SvetozarMitrov-1701681079-H8\CircleArea\obj\Debug\CircleArea.pdb
